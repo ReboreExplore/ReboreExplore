@@ -6,9 +6,10 @@
  </h2>
 
 - 🎓 I'm an Instrumentation Engineering undergrad 
-- 💻 I’m currently finding a graduade program 🕵️
+- 💻 I’m currently finding a graduate program 🕵️
 - ⭐ 2021's Objective: To figure out what is right for me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love painting, programming, singing and reading
+- Currently I am following the OSSU curriculum for computer science and thus learning Java.
 
 
 #### Languages and Tools 
