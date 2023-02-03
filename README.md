@@ -5,12 +5,10 @@
 <h2 align="left">Hi, I'm Manpa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  </h2>
 
-- 💻 I'm currently pursuing my masters at the University of Stuttgart in the Information Technology Department.  🕵️
-- 🎓 I'm an Instrumentation Engineering undergrad 
-- ⭐ 2021's Objective: To figure out what is right for me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love painting, programming, singing and reading
-- Currently I am following the OSSU curriculum for computer science and thus learning Java.
-
+- 💻 I'm currently pursuing my masters at the University of Stuttgart in the Information Technology Department.  🕵️ 
+- ⭐ 2023's Objective: To figure out what is right for me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I love painting, programming, singing and reading.
+- Currently, I am learning the exciting yet super imaginative mathematics behind deep learning.
 
 #### Languages and Tools 
 <p>
