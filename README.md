@@ -6,8 +6,8 @@
  </h2>
 
 - 💻 I'm currently pursuing my masters at the University of Stuttgart in the Information Technology Department.  🕵️ 
-- ⭐ 2023's Objective: To figure out what is right for me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love painting, programming, singing and reading.
+- ⭐ 2023's Objective: To inculcate the habit of reading research articles/blogs and also writing some(?) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I am currently into leraning German and sticking to a proper workout schedule.
 - Currently, I am learning the exciting yet super imaginative mathematics behind deep learning.
 
 #### Languages and Tools 
