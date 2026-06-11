@@ -13,9 +13,11 @@
 
 ---
 
-- 💻 Exploring PhD opportunities in AI / Computer Vision, focusing on multimodal and representation learning (vision-language systems)  
-- 🎯 2026 Goal: Transition into a PhD while building a balanced and sustainable lifestyle  
-- ✍️ Aspiring science communicator — improving both technical depth and clarity of explanation  
+💻 Exploring PhD opportunities and research-oriented industry roles in AI, Computer Vision, and Multimodal Learning
+
+🔬 Research interests: Representation Learning, Vision-Language Models, Foundation Models, Visual Perception, and Multimodal Reasoning
+
+✍️ Aspiring science communicator — striving to make complex ideas accessible without sacrificing technical depth
 
 ---
 
