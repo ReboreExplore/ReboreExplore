@@ -2,14 +2,14 @@
 **ReboreExplore/ReboreExplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 align="left">
+<!-- <h2 align="left">
   Hi, I'm Manpa 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" />
 </h2>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7A41D&lines=AI+Explorer;Vision-Language+Systems;Future+Science+Communication;Always+Learning" />
-</p>
+</p> -->
 
 ---
 
@@ -17,7 +17,7 @@
 
 🔬 Research interests: Representation Learning, Vision-Language Models, Foundation Models, Visual Perception, and Multimodal Reasoning
 
-✍️ Aspiring science communicator — striving to make complex ideas accessible without sacrificing technical depth
+✍️ Aspiring science communicator - striving to make complex ideas accessible without sacrificing technical depth
 
 ---
 
